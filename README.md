@@ -1,2 +1,2 @@
 # test2
-for git tain 2
+readme: for git tain 2
